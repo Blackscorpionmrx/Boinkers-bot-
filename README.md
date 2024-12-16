@@ -26,7 +26,7 @@
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/Blackscorpionmrx.git
+git clone https://github.com/Blackscorpionmrx/Boinkers-bot-.git
 ```
 ```bash
 cd Boinkers-BOT
